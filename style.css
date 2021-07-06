@@ -7,10 +7,13 @@
 }
 .half-width{
     width: 50%;
+    padding: 20px;
 }
-.first-part{
+.flexible-containe{
     display: flex;
+    margin-bottom: 200px;
 }
+
 .half-width-text{
     margin-left: 20px;
     
@@ -23,7 +26,46 @@
    background-image: linear-gradient(tomato,yellow);
     color: white;
 }
+.second-part{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+}
 
 #sc1-img{
 border-radius: 10px;
+}
+
+
+#sc2-img{
+    border-radius: 20px;
+    }
+
+
+.fourth-part{
+    display: flex;
+    margin-bottom: 200px
+  
+   
+}
+.three-width{
+    width: 20%;
+    padding-left: 4%;
+    box-shadow: 10px 10px 50px gray;
+    margin-left: 5%;
+    margin-right:5%;
+    padding: 20px;
+    border-radius: 10px;
+}
+#recepie{
+    text-align: center;
+    padding-bottom: 40px;
+    text-emphasis-color: gray
+}
+.white{
+    color: white;
+}
+footer{
+    
+    text-align: center;
+    background-color:brown;
 }
