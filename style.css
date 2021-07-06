@@ -61,6 +61,25 @@ border-radius: 10px;
     padding-bottom: 40px;
     text-emphasis-color: gray
 }
+.botthom-text{
+   
+    display: flex;
+    
+}
+.font-weight{
+    font-weight: 700;
+}
+.bottom-style{
+    width: 15%;
+    height: 10%;
+    padding-left: 5%;
+    margin-left: 10%;
+    margin-right:5%;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 15px gray;
+   
+}
 .white{
     color: white;
 }
@@ -68,4 +87,5 @@ footer{
     
     text-align: center;
     background-color:brown;
+    
 }
