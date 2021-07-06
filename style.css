@@ -1,0 +1,28 @@
+.thingking-diet{
+    color: tomato;
+    
+}
+.diet-text{
+    font-size: 60px;
+}
+.half-width{
+    width: 50%;
+}
+.first-part{
+    display: flex;
+}
+.half-width-text{
+    margin-left: 20px;
+    
+}
+.link-button{
+    font-weight: 700;
+    padding: 10px 20px;
+    border-radius: 10px;
+    text-decoration: none;
+   background-image: linear-gradient(tomato,yellow);
+    color: white;
+
+#sc1-img{
+    border-radius: 20px;
+}
