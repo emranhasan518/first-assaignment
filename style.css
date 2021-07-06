@@ -22,7 +22,8 @@
     text-decoration: none;
    background-image: linear-gradient(tomato,yellow);
     color: white;
+}
 
 #sc1-img{
-    border-radius: 20px;
+border-radius: 10px;
 }
